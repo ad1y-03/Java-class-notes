@@ -1,4 +1,4 @@
-public class array {
+public class Array {
     public static void main(String[] args){
         int N[] = new int[5];
         N[0]=1;
